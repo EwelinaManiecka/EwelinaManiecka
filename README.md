@@ -1,7 +1,7 @@
 Hi, everybody! :wave: :smiley:
 
 # 💫 About Me:
- :computer: I'm junior JavaScript fullstack developer.<br>🔭 I’m currently working on JS, React, Node.js, Three.js, Vite.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript and Python.<br>:writing_hand: I'm good copywriter.<br>💬 Ask me about almost everything ;)<br><br>:woman_student: I'm currently studying Spanish (level B2-C1) and English (level B1).<br>I plan learn Italian and German.<br>:paintbrush: :art: In my free time I like to draw and paint (but :helicopter: I like fly a drone or :camera: take a photo too)... ;)
+ :computer: I'm junior JavaScript fullstack developer.<br>🔭 I’m currently working on JS, React, Node.js, Three.js, Vite.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript and Python.<br>:writing_hand: I'm good copywriter.<br>💬 Ask me about almost everything ;)<br><br>:woman_student: I'm currently studying Spanish (level B2-C1) and English (level B1).<br>I'm going to learn Italian and German.<br>:paintbrush: :art: In my free time I like to draw and paint (but :helicopter: I like to fly a drone or :camera: take a photos too)... ;)
 
 
 ## 🌐 Socials:

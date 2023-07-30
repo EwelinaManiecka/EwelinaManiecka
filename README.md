@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JS, React, Node.js, Three.js, Vue.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript.<br>💬 Ask me about almost everything ;)<br><br>I'm currently studying Spanish (level B2-C1) and English (B1-B2).<br>I plan learn Italian and German.
+🔭 I’m currently working on JS, React, Node.js, Three.js, Vue.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript.<br>💬 Ask me about almost everything ;)<br><br>I'm currently studying Spanish (level B2-C1) and English (B1).<br>I plan learn Italian and German.
 
 
 ## 🌐 Socials:

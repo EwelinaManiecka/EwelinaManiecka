@@ -1,7 +1,7 @@
 Hi, everybody!
 
 # 💫 About Me:
-🔭 I’m currently working on JS, React, Node.js, Three.js, Vue.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript and Python.<br>💬 Ask me about almost everything ;)<br><br>I'm currently studying Spanish (level B2-C1) and English (level B1).<br>I plan learn Italian and German.<br>...:paintbrush: and I like to draw and paint... ;)
+🔭 I’m currently working on JS, React, Node.js, Three.js, Vue.js, Python.<br>👯 I’m looking to collaborate on a good company.<br>🌱 I’m currently learning JS, Node.js, Three.js, TypeScript and Python.<br>💬 Ask me about almost everything ;)<br>:writing_hand: I'm good copywriter<br><br>:woman_student: I'm currently studying Spanish (level B2-C1) and English (level B1).<br>I plan learn Italian and German.<br>:paintbrush: :art:...and I like to draw and paint... ;)
 
 
 ## 🌐 Socials:
